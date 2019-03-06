@@ -32,7 +32,7 @@ async def on_message(message):
     #if joke_list in message.content.lower():
        
 
-client.run("NTUyODczMTg2OTMzNDczMzAz.D2F56Q.OUbbzj0ia6rZiPXx1bnnGGH9YoM")
+client.run('TOKEN')
 #Item: One mature SCP-504 tomato
 #Subject: D-504-1
 #Spoken: "insert what came after the joke prefix"
