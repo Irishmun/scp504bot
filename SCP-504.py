@@ -32,7 +32,7 @@ async def on_message(message):
     #if joke_list in message.content.lower():
        
 
-client.login('TOKEN')
+client.run('TOKEN')
 client.close()
 #Item: One mature SCP-504 tomato
 #Subject: D-504-1
