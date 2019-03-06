@@ -1,0 +1,1 @@
+worker: python SCP-504.py
