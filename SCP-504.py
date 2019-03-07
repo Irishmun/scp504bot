@@ -33,7 +33,6 @@ async def on_message(message):
        
 
 client.run('TOKEN')
-client.close()
 #Item: One mature SCP-504 tomato
 #Subject: D-504-1
 #Spoken: "insert what came after the joke prefix"
