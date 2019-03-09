@@ -8,7 +8,7 @@ import random
 Client = discord.Client()
 client = commands.Bot(command_prefix = "?")
 
-joke_list = ["I'VE GOT A JOKE,", "JOKE,", "IK WEET EEN MOP,", "IK KEN EEN MOP,", "IK KEN EEN GRAP,", "GRAP," ]
+joke_list = ["JOKE,", "MOP,", "GRAP," ]
 bypass_list = []
 pain_scale = [" Subject suffered a broken nose.", " Subject rendered unconscious.", " Subject killed."," Subject injured, two teeth dislodged.", " Subject severely injured, right eye destroyed by piece of tomato.", " Chipped tooth and hairline jaw fracture.", " Subject is hospitalized with a massive skull fracture."]
 
