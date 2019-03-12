@@ -1,1 +1,1 @@
-worker: python SCP-504.py
+worker python SCP-504.py
