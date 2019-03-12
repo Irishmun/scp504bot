@@ -42,5 +42,5 @@ async def on_message(message):
             if message.attachments:
                 await bot.send_message(message.channel, str(response))
 
-client.run('TOKEN')    
+bot.run('TOKEN')    
 # "[REDACTED]"
